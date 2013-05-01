@@ -4,7 +4,7 @@ Pryecto desarrolado en ruby on rails para el manejo y gestion de procesos judici
 
 
 == Desarrolladores 
-Alexander Herrera
+Alexander Herrera,
 Sebastián Castiblanco
 
 == Welcome to Rails
